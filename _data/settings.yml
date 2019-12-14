@@ -2,10 +2,11 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
+- {name: 'Projets', url: ''}
 - {name: 'Blog', url: 'pages/blog.html'}
 - {name: 'About', url: 'pages/about.html'}
 - {name: 'Contact', url: 'pages/contact.html'}
+
 
 #-------------------------------
 # SEO Section
@@ -47,7 +48,7 @@ about: >
 contact: >
   # Contact
 
-  You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+  You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) marie[dot]piessat[at]gmail[dot]org or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
 
 #-------------------------------
 # Work Section
@@ -63,10 +64,8 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
 - {icon: 'instagram', link: '#'}
 - {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
 - {icon: 'envelope', link: 'mailto:#'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
