@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Getting Started"
+title: "La vie est sympa"
 ---
 
 # Ma vie est sympa

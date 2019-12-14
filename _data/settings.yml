@@ -4,7 +4,7 @@
 menu:
 - {name: 'Projets', url: ''}
 - {name: 'Blog', url: 'pages/blog.html'}
-- {name: 'About', url: 'pages/about.html'}
+- {name: 'A propos', url: 'pages/about.html'}
 - {name: 'Contact', url: 'pages/contact.html'}
 
 
@@ -14,10 +14,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
-  rel-author: 'https://plus.google.com/u/0/#'
-  rel-publisher: 'https://plus.google.com/u/0/#'
-
+  description: 'Portfolio de Marie Piessat'
 #-------------------------------
 # Google Analytics Section
 
@@ -64,8 +61,7 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+- {icon: 'instagram', link: 'https://www.instagram.com/m.igea/'}
+- {icon: 'envelope', link: 'mailto:marie.piessat@gmail.com?subject=<Contact depuis Portfolio>'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
