@@ -3,20 +3,6 @@ layout: post
 title: "La vie est sympa"
 ---
 
-# Ma vie est sympa
+# La vie est sympa :)
 
-Ma vie est cca	ipsum caca dolor
-
-## Bla
-### Blabla
-
-cca
-cca ipsum dolor caca amet, consectetur adipisicing elit. Distinctio ut non impedit ratione dolor, unde eum facere quas caca, tenetur aperiam deserunt debitis nulla iusto cumque molestiae dolores. Culpa, soluta?
-
-
-cca ipsum dolor caca amet, consectetur adipisicing elit. Distinctio ut non impedit ratione dolor, unde eum facere quas caca, tenetur aperiam deserunt debitis nulla iusto cumque molestiae dolores. Culpa, soluta?
-
-
-cca ipsum dolor caca amet, consectetur adipisicing elit. Distinctio ut non impedit ratione dolor, unde eum facere quas caca, tenetur aperiam deserunt debitis nulla iusto cumque molestiae dolores. Culpa, soluta?
-cca ipsum dolor caca amet, consectetur adipisicing elit. Distinctio ut non impedit ratione dolor, unde eum facere quas caca, tenetur aperiam deserunt debitis nulla iusto cumque molestiae dolores. Culpa, soluta?
-ljielzj kerj  caca sjceozus ozicj caca smlz zpsi jfi caca
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi ipsa porro ex rem sed tempora, distinctio optio ea error veritatis rerum praesentium obcaecati minus sint est, delectus. Eaque quisquam, iure!
