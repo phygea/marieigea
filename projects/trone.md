@@ -12,6 +12,7 @@ Ce projet rassemble des photographies prises durant 3 ans en Égypte et depuis m
 
 Deux univers conversent et s’affrontent à travers ces collages, pour former un chant visuel s’articulant en deux couplets autour d’un point de bascule : le retour et ses conséquences. Ce travail n’est pas seulement la mise en contraste de deux pays ou de deux quotidiens. Il met aussi en exergue, une traversée des limbes, un « entre-deux » dont l’expression visuelle devient une introspection. Un auto-portrait.
 
+---
 
 {% include image.html image="projects/trone/trone0001.jpg" %}
 {% include image.html image="projects/trone/trone0002.jpg" %}
@@ -26,12 +27,13 @@ Deux univers conversent et s’affrontent à travers ces collages, pour former u
 {% include image.html image="projects/trone/trone0011.jpg" %}
 {% include image.html image="projects/trone/trone0012.jpg" %}
 
+---
 
 [« Trône »](https://www.youtube.com/watch?v=48fnSevQFk4) this is the title of a Booba video clip, which visually takes up the artist's "metagores" (mixture of metaphors and gore), according to the neologism of the essayist Thomas Ravier. This figure of explosive style, flirting at the border between fiction and reality - "cinema for the blind" for the rapper Lino - takes shape through the superimposition of two or three fixed shots.
 
 Trône is also a place where one expels, evacuates, expresses; or a place where one isolates, observes, analyzes. A place that one does not share, out of modesty or necessity.
 
-This project brings together photographs taken during 3 years in Egypt and since my return to France in March 2019. The pieces of the puzzle are obviously assembled around a recurring figure: Hygie. A strong family story. A piece of my identity. I discovered the original statue in Athens, at the National Museum of Archaeology, during an extended stopover on my return from Egypt.
+This project brings together photographs taken during 3 years in Egypt and since my return to France in March 2019. The pieces of the puzzle are assembled around a recurring figure: Hygie. A strong family story. A piece of my identity. I discovered the original statue in Athens, at the National Museum of Archaeology, during an extended stopover on my return from Egypt.
 
 Two universes converse and confront each other through these collages, to form a visual song articulated in two verses around a tipping point: the return and its consequences. This work is not only the contrasting of two countries or two daily lives. It also highlights a crossing of limbo, an "in-between" whose visual expression becomes introspection. A self-portrait.
 
