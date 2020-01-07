@@ -4,7 +4,7 @@ layout: post
 ---
 # TRÔNE
 
-[« Trône »](https://www.youtube.com/watch?v=48fnSevQFk4) c’est le titre d’un clip de Booba, qui reprend visuellement les « métagores » (mélange de métaphores et gore) de l’artiste, selon le néologisme de l’essayiste Thomas Ravier. Cette figure de style explosive, flirtant à la frontière entre la fiction et la réalité — « du cinéma pour aveugle » pour le rappeur Lino —, prend forme par la superposition de deux à trois plans fixes.
+[« Trône »](https://www.youtube.com/watch?v=48fnSevQFk4) c’est le titre d’un clip de Booba, qui reprend visuellement les « métagores » (mélange de métaphores et gore) de l’artiste, selon le néologisme de l’essayiste Thomas Ravier. Cette figure de style explosive, flirtant à la frontière entre la fiction et la réalité — « des films pour aveugles » pour le rappeur Lino —, prend forme par la superposition de deux à trois plans fixes.
 
 Trône c’est aussi un lieu où l’on expulse, évacue, exprime ; ou encore, un lieu où l’on s’isole, observe, analyse. Un lieu qu’on ne partage pas, par pudeur ou nécessité.
 
@@ -29,7 +29,7 @@ Deux univers conversent et s’affrontent à travers ces collages, pour former u
 
 ---
 
-[« Trône »](https://www.youtube.com/watch?v=48fnSevQFk4) this is the title of a Booba video clip, which visually takes up the artist's "metagores" (mixture of metaphors and gore), according to the neologism of the essayist Thomas Ravier. This figure of explosive style, flirting at the border between fiction and reality - "cinema for the blind" for the rapper Lino - takes shape through the superimposition of two or three fixed shots.
+[« Trône »](https://www.youtube.com/watch?v=48fnSevQFk4) this is the title of a Booba video clip, which visually takes up the artist's "metagores" (mixture of metaphors and gore), according to the neologism of the essayist Thomas Ravier. This figure of explosive style, flirting at the border between fiction and reality - "movies for the blinds" for the rapper Lino - takes shape through the superimposition of two or three fixed shots.
 
 Trône is also a place where one expels, evacuates, expresses; or a place where one isolates, observes, analyzes. A place that one does not share, out of modesty or necessity.
 
