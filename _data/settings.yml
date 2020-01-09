@@ -38,7 +38,7 @@ disqus:
 # About Section
 
 about: >
-- {name: 'about.html', folder: 'pages', file: 'about.html'}
+- {name: 'A propos', folder: 'pages', file: 'about.html'}
 
 
 
