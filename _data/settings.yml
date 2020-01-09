@@ -38,8 +38,8 @@ disqus:
 # About Section
 
 about: >
-- {name: 'A propos', folder: 'pages', file: 'about.html'}
 
+- {name: 'A propos', url: 'pages/about.html'}
 
 
 contact: >
