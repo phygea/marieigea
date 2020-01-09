@@ -38,8 +38,7 @@ disqus:
 # About Section
 
 about: >
-
-[Projet précédent / previous work](https://surlestoitsducaire.wordpress.com)
+- {name: 'about.html', folder: 'pages', file: 'about.html'}
 
 
 
