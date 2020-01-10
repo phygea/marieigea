@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-- menu:
+- {menu:
 - {name: 'Projets', url: ''}
 - {name: 'Blog', url: 'pages/blog.html'}
 - {name: 'A propos', url: 'pages/about.html'}
@@ -39,7 +39,7 @@ disqus:
 
 about: >
 
-- {name: 'A propos', url: 'pages/about.html'}
+[Projet précédent / previous work](https://surlestoitsducaire.wordpress.com)
 
 
 contact: >
