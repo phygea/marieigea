@@ -11,7 +11,7 @@ Le retour en France s’accompagne d’un retour dans le giron familial ; celui-
 Avec un Chinon offert par ma tante, j’ai commencé à questionner, à travers cette maison et ma famille, la notion de liberté. Que signifie-t-elle pour moi ? Tient-elle à la possibilité de se retirer, même partiellement, de la société ? Ou tient-elle au mouvement perpétuel, nécessaire pour se réinventer ? En me laissant guider par l’instant et la vie qui rythme cette maison, j’interroge l’existence de ce lieu et mon positionnement par rapport à lui.
 
 
-
+---
 {% include image.html image="projects/libertes/roro_selection0001.jpg" %}
 {% include image.html image="projects/libertes/roro_selection0002.jpg" %}
 {% include image.html image="projects/libertes/roro_selection0003.jpg" %}
