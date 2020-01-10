@@ -1,8 +1,8 @@
 ---
 layout: post
-titre: 'LIBERTÉS'
----
 
+---
+#### LIBERTÉS
 
 Durant trois années à l’étranger j’ai pris conscience des sentiments mêlés qui me rattachent à la maison familiale. En 2019, je rentre en France, en partie guidée par l’envie de la retrouver. Préserver les liens familiaux, renouer avec le concret de l’activité campagnarde, entretenir un écosystème et un horizon. Celui d’un autre mode de vie, proche du vivant, loin de la société néolibérale. Plus qu’un socle familial, c’est un terrain d’expérimentations à une forme d’indépendance vis-à-vis de la société.
 
@@ -45,7 +45,7 @@ Avec un Chinon offert par ma tante, j’ai commencé à questionner, à travers 
 
 ---
 
-**LIBERTIES**
+#### LIBERTIES
 
 During three years abroad I became aware of the mixed feelings I had about the family home. In 2019, I return to France, partly driven by the desire to rediscover it. To preserve family ties, to reconnect with the concreteness of country life, to maintain an ecosystem and a horizon. That of another way of life, close to the living, far from the neo-liberal society. More than a family foundation, it is an experimental ground for a form of independence from society.
 

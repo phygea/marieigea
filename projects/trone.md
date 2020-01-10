@@ -2,6 +2,7 @@
 layout: post
 titre: 'TRÔNE'
 ---
+#### TRÔNE
 
 [« Trône »](https://www.youtube.com/watch?v=48fnSevQFk4) c’est le titre d’un clip de Booba, qui reprend visuellement les « métagores » (mélange de métaphores et gore) de l’artiste, selon le néologisme de l’essayiste Thomas Ravier. Cette figure de style explosive, flirtant à la frontière entre la fiction et la réalité — « des films pour aveugles » pour le rappeur Lino —, prend forme par la superposition de deux à trois plans fixes.
 
@@ -27,10 +28,10 @@ Deux univers conversent et s’affrontent à travers ces collages, pour former u
 {% include image.html image="projects/trone/trone0012.jpg" %}
 
 ---
+#### TRÔNE / THRONE
+[« Trône »](https://www.youtube.com/watch?v=48fnSevQFk4) is the title of a Booba video clip, which visually takes up the artist's "metagores" (mixture of metaphors and gore), according to the neologism of the essayist Thomas Ravier. This figure of explosive style, flirting at the border between fiction and reality - "movies for the blinds" for the rapper Lino - takes shape through the superimposition of two or three fixed shots.
 
-[« Trône »](https://www.youtube.com/watch?v=48fnSevQFk4) this is the title of a Booba video clip, which visually takes up the artist's "metagores" (mixture of metaphors and gore), according to the neologism of the essayist Thomas Ravier. This figure of explosive style, flirting at the border between fiction and reality - "movies for the blinds" for the rapper Lino - takes shape through the superimposition of two or three fixed shots.
-
-Trône is also a place where one expels, evacuates, expresses; or a place where one isolates, observes, analyzes. A place that one does not share, out of modesty or necessity.
+Throne is also a place where one expels, evacuates, expresses; or a place where one isolates, observes, analyzes. A place that one does not share, out of modesty or necessity.
 
 This project brings together photographs taken during 3 years in Egypt and since my return to France in March 2019. The pieces of the puzzle are assembled around a recurring figure: Hygie. A strong family story. A piece of my identity. I discovered the original statue in Athens, at the National Museum of Archaeology, during an extended stopover on my return from Egypt.
 
