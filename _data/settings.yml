@@ -2,7 +2,7 @@
 # General Site Settings
 
 - {menu:
-- {name: 'Projets', url: ''}
+- {name: 'Projets', url: 'https://phygea.github.io/mariepiessat/'}
 - {name: 'Blog', url: 'pages/blog.html'}
 - {name: 'A propos', url: 'pages/about.html'}
 - {name: 'Contact', url: 'pages/contact.html'}
