@@ -1,8 +1,7 @@
 ---
 layout: post
-
+titre: 'TRÔNE'
 ---
-# TRÔNE
 
 [« Trône »](https://www.youtube.com/watch?v=48fnSevQFk4) c’est le titre d’un clip de Booba, qui reprend visuellement les « métagores » (mélange de métaphores et gore) de l’artiste, selon le néologisme de l’essayiste Thomas Ravier. Cette figure de style explosive, flirtant à la frontière entre la fiction et la réalité — « des films pour aveugles » pour le rappeur Lino —, prend forme par la superposition de deux à trois plans fixes.
 
