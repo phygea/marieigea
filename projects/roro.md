@@ -2,7 +2,7 @@
 layout: post
 
 ---
-#### LIBERTÉS
+#### RORO
 
 Durant trois années à l’étranger j’ai pris conscience des sentiments mêlés qui me rattachent à la maison familiale. En 2019, je rentre en France, en partie guidée par l’envie de la retrouver. Préserver les liens familiaux, renouer avec le concret de l’activité campagnarde, entretenir un écosystème et un horizon. Celui d’un autre mode de vie, proche du vivant, loin de la société néolibérale. Plus qu’un socle familial, c’est un terrain d’expérimentations à une forme d’indépendance vis-à-vis de la société.
 
@@ -12,40 +12,40 @@ Avec un Chinon offert par ma tante, j’ai commencé à questionner, à travers 
 
 
 ---
-{% include image.html image="projects/libertes/roro_selection0001.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0002.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0003.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0004.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0005.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0006.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0007.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0008.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0009.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0010.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0011.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0012.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0013.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0014.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0016.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0017.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0018.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0019.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0020.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0021.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0022.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0023.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0024.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0025.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0026.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0027.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0028.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0029.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0030.jpg" %}
-{% include image.html image="projects/libertes/roro_selection0031.jpg" %}
+{% include image.html image="projects/roro/roro_selection0001.jpg" %}
+{% include image.html image="projects/roro/roro_selection0002.jpg" %}
+{% include image.html image="projects/roro/roro_selection0003.jpg" %}
+{% include image.html image="projects/roro/roro_selection0004.jpg" %}
+{% include image.html image="projects/roro/roro_selection0005.jpg" %}
+{% include image.html image="projects/roro/roro_selection0006.jpg" %}
+{% include image.html image="projects/roro/roro_selection0007.jpg" %}
+{% include image.html image="projects/roro/roro_selection0008.jpg" %}
+{% include image.html image="projects/roro/roro_selection0009.jpg" %}
+{% include image.html image="projects/roro/roro_selection0010.jpg" %}
+{% include image.html image="projects/roro/roro_selection0011.jpg" %}
+{% include image.html image="projects/roro/roro_selection0012.jpg" %}
+{% include image.html image="projects/roro/roro_selection0013.jpg" %}
+{% include image.html image="projects/roro/roro_selection0014.jpg" %}
+{% include image.html image="projects/roro/roro_selection0016.jpg" %}
+{% include image.html image="projects/roro/roro_selection0017.jpg" %}
+{% include image.html image="projects/roro/roro_selection0018.jpg" %}
+{% include image.html image="projects/roro/roro_selection0019.jpg" %}
+{% include image.html image="projects/roro/roro_selection0020.jpg" %}
+{% include image.html image="projects/roro/roro_selection0021.jpg" %}
+{% include image.html image="projects/roro/roro_selection0022.jpg" %}
+{% include image.html image="projects/roro/roro_selection0023.jpg" %}
+{% include image.html image="projects/roro/roro_selection0024.jpg" %}
+{% include image.html image="projects/roro/roro_selection0025.jpg" %}
+{% include image.html image="projects/roro/roro_selection0026.jpg" %}
+{% include image.html image="projects/roro/roro_selection0027.jpg" %}
+{% include image.html image="projects/roro/roro_selection0028.jpg" %}
+{% include image.html image="projects/roro/roro_selection0029.jpg" %}
+{% include image.html image="projects/roro/roro_selection0030.jpg" %}
+{% include image.html image="projects/roro/roro_selection0031.jpg" %}
 
 ---
 
-#### LIBERTIES
+#### RORO
 
 During three years abroad I became aware of the mixed feelings I had about the family home. In 2019, I return to France, partly driven by the desire to rediscover it. To preserve family ties, to reconnect with the concreteness of country life, to maintain an ecosystem and a horizon. That of another way of life, close to the living, far from the neo-liberal society. More than a family foundation, it is an experimental ground for a form of independence from society.
 
