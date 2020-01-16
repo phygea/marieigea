@@ -37,11 +37,7 @@ Avec un Chinon offert par ma tante, j’ai commencé à questionner, à travers 
 {% include image.html image="projects/roro/roro_selection0024.jpg" %}
 {% include image.html image="projects/roro/roro_selection0025.jpg" %}
 {% include image.html image="projects/roro/roro_selection0026.jpg" %}
-{% include image.html image="projects/roro/roro_selection0027.jpg" %}
-{% include image.html image="projects/roro/roro_selection0028.jpg" %}
-{% include image.html image="projects/roro/roro_selection0029.jpg" %}
-{% include image.html image="projects/roro/roro_selection0030.jpg" %}
-{% include image.html image="projects/roro/roro_selection0031.jpg" %}
+
 
 ---
 
