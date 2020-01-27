@@ -28,11 +28,3 @@ Deux univers conversent et s’affrontent à travers ces collages, pour former u
 {% include image.html image="projects/trone/trone0012.jpg" %}
 
 ---
-#### TRÔNE / THRONE
-[« Trône »](https://www.youtube.com/watch?v=48fnSevQFk4) (throne) this is the title of a Booba video clip, which visually takes up the artist's "metagores" (mixture of metaphors and gore), according to the neologism of the essayist Thomas Ravier. This figure of explosive style, flirting at the border between fiction and reality - « *a gay marriage between a kalash' and a feather* » -, takes shape through the superimposition of two to three fixed shots.
-
-Trône is also a place where one expels, evacuates, expresses; or a place where one isolates, observes, analyzes. A place that one does not share, out of modesty or necessity.
-
-This project brings together photographs taken during 3 years in Egypt and since my return to France in March 2019. « *It's just a puzzle of*  [images] *and thoughts* » that cluster around a recurring figure: Hygie. A strong family story. A piece of my identity. I discovered the original statue in Athens, at the National Museum of Archaeology, during an extended stopover on my return from Egypt.
-
-Two universes converse and confront each other through these collages, to form a visual song articulated in two verses around a tipping point: the return and its consequences. This work is not only the contrasting of two countries or two daily lives. It also highlights a crossing of limbo, an "in-between" whose visual expression becomes introspection. A self-portrait.

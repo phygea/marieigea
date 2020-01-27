@@ -39,13 +39,13 @@ disqus:
 
 about: >
 
- #### Projets précédents / previous works
+ #### Projets précédents
  <br>
 
 
  _**[Sur les toits du Caire](https://surlestoitsducaire.wordpress.com)**_, projet co-réalisé avec [Clémence Curty](http://clemencecurty.com/), en 2017, et exposé à deux reprises au Caire.
     - Centre d'Études et de Documentations Économiques Juridiques et social, du 22 au 30 novembre 2017.
-    - Institut Français d'Égypte à Héliopois, du 11 au 24 avril 2018.
+    - Institut Français d'Égypte à Héliopolis, du 11 au 24 avril 2018.
  <br>
 
 
@@ -53,7 +53,7 @@ about: >
  <br>
  <br>
 
- #### Publications en ligne / online publications
+ #### Publications en ligne
 
 
  _**[Les toits du Caire - des espaces ressource ?](https://www.revue-urbanites.fr/urbanites-africaines-piessat/)**_, *Urbanités*, octobre 2018.
@@ -71,7 +71,7 @@ contact: >
 projects:
 - {name: 'TRÔNE', folder: 'trone', file: 'projects/trone.html'}
 - {name: 'roro', folder: 'roro', file: 'projects/roro.html'}
-- {name: 'roro_2', folder: 'roro_2', file: 'projects/roro_2.html'}
+# - {name: 'roro_2', folder: 'roro_2', file: 'projects/roro_2.html'}
 # - {name: 'pieces', folder: 'proj-4', file: 'projects/proj-4.html'}
 # - {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
 

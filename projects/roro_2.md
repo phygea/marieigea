@@ -4,7 +4,7 @@ title: 'roro #2'
 ---
  <br>
 
- Variations
+ Variations.
 
  <br>
 
