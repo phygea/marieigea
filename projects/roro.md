@@ -8,7 +8,7 @@ Durant trois années à l’étranger j’ai pris conscience des sentiments mêl
 
 Le retour en France s’accompagne d’un retour dans le giron familial ; celui-là même dont je me suis échappée pour me réaliser. Les forces vives, indispensables à l’entretien de la maison, s’amenuisent. Les décisions sont prises par la génération du dessus. Avant de devenir un éventuel avenir, c’est d’abord le présent de mes parents et ma tante. Un paradis exclusif qui dispense ses bienfaits et réclame son dû : énergie, temps et argent. Une trinité nécessitant une communion familiale.
 
-Avec un Chinon offert par ma tante, j’ai commencé à questionner, à travers cette maison et ma famille, la notion de liberté. Que signifie-t-elle pour moi ? Tient-elle à la possibilité de se retirer, même partiellement, de la société quitte à s'enfermer dans un microcosme ? Ou tient-elle au mouvement perpétuel, nécessaire pour se réinventer ? En me laissant guider par l’instant et la vie qui rythme cette maison, j’interroge l’existence de ce lieu et mon rapport à lui.
+Avec un Chinon offert par ma tante, j’ai commencé à questionner, à travers cette maison et ma famille, la notion de liberté. Que signifie-t-elle pour moi ? Tient-elle à la possibilité de se retirer, même partiellement, de la société quitte à s'enfermer dans un microcosme familial ? Ou tient-elle au mouvement perpétuel, nécessaire pour se réinventer ? En me laissant guider par l’instant et la vie qui rythme cette maison, j’interroge l’existence de ce lieu et mon rapport à lui.
 
 
 ---
