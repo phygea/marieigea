@@ -4,12 +4,11 @@ layout: post
 ---
 #### RORO
 
-Durant trois années à l’étranger j’ai pris conscience des sentiments mêlés qui me rattachent à la maison familiale. En 2019, je rentre en France, en partie guidée par l’envie de la retrouver. Préserver les liens familiaux, renouer avec le concret de l’activité campagnarde, entretenir un écosystème et un horizon. Celui d’un autre mode de vie, proche du vivant, loin de la société néolibérale. Plus qu’un socle familial, c’est un terrain d’expérimentations à une forme d’indépendance vis-à-vis de la société.
+De retour en France, mon regard bascule du doctorat vers la photographie, de la fenêtre vers le miroir. Un contrepied à la rigidité d’expression du langage scientifique, une acceptation du doute. C’est d’abord la maison familiale, la "Roro", qui s’impose à moi comme une énigme. L’éloignement m’a fait prendre conscience des sentiments mêlés qui me rattachent à elle. Le saule tortueux danse la vie retrouvée après sa chute. Il semble s’être allongé pour bercer dans ses branches qui cherche un peu de repos. La vigueur de ses rameaux traduit l’exubérance de la nature, laquelle asservit autant qu’elle nourrit.
 
-Le retour en France s’accompagne d’un retour dans le giron familial ; celui-là même dont je me suis échappée pour me réaliser. Les forces vives, indispensables à l’entretien de la maison, s’amenuisent. Les décisions sont prises par la génération du dessus. Avant de devenir un éventuel avenir, c’est d’abord le présent de mes parents et ma tante. Un paradis exclusif qui dispense ses bienfaits et réclame son dû : énergie, temps et argent. Une trinité nécessitant une communion familiale.
+Avec un réflex Chinon offert par ma tante, je sonde la notion de liberté. Que signifie-t-elle pour moi ? Tient-elle à la possibilité d’expérimenter une retraite de la société, quitte à s’enfermer dans un microcosme familial et à s’enchaîner à une terre, à l’image de mon père ? C’est lui qui, lourdement adossé à la porte-fenêtre du salon, hume le pétrichor libéré par un orage estival. Ou  bien la liberté tient-elle au mouvement perpétuel, nécessaire pour se réinventer ? Les saisons rythment la vie de la maison.
 
-Avec un Chinon offert par ma tante, j’ai commencé à questionner, à travers cette maison et ma famille, la notion de liberté. Que signifie-t-elle pour moi ? Tient-elle à la possibilité de se retirer, même partiellement, de la société quitte à s'enfermer dans un microcosme familial ? Ou tient-elle au mouvement perpétuel, nécessaire pour se réinventer ? En me laissant guider par l’instant et la vie qui rythme cette maison, j’interroge l’existence de ce lieu et mon rapport à lui.
-
+Je me laisse guider par le quotidien et tente de « rendre sensibles des instants très simples » (Claude Batho). Un citron achève sa maturation sous la serre, il s’offre autant qu’il se dérobe. La magie de sa présence symbolise possibles et amertume. Le Chinon, comme la maison, est vieillot, robuste et familial. Avec lui, j’interroge la permanence de ce lieu et mon rapport à lui.
 
 ---
 {% include image.html image="projects/roro/roro_selection0001.jpg" %}
@@ -22,20 +21,5 @@ Avec un Chinon offert par ma tante, j’ai commencé à questionner, à travers 
 {% include image.html image="projects/roro/roro_selection0008.jpg" %}
 {% include image.html image="projects/roro/roro_selection0009.jpg" %}
 {% include image.html image="projects/roro/roro_selection0010.jpg" %}
-{% include image.html image="projects/roro/roro_selection0011.jpg" %}
-{% include image.html image="projects/roro/roro_selection0012.jpg" %}
-{% include image.html image="projects/roro/roro_selection0013.jpg" %}
-{% include image.html image="projects/roro/roro_selection0014.jpg" %}
-{% include image.html image="projects/roro/roro_selection0016.jpg" %}
-{% include image.html image="projects/roro/roro_selection0017.jpg" %}
-{% include image.html image="projects/roro/roro_selection0018.jpg" %}
-{% include image.html image="projects/roro/roro_selection0019.jpg" %}
-{% include image.html image="projects/roro/roro_selection0020.jpg" %}
-{% include image.html image="projects/roro/roro_selection0021.jpg" %}
-{% include image.html image="projects/roro/roro_selection0022.jpg" %}
-{% include image.html image="projects/roro/roro_selection0023.jpg" %}
-{% include image.html image="projects/roro/roro_selection0024.jpg" %}
-{% include image.html image="projects/roro/roro_selection0025.jpg" %}
-
 
 ---
