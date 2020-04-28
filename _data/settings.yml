@@ -69,9 +69,9 @@ contact: >
 # Work Section
 
 projects:
-# - {name: 'TRÔNE', folder: 'trone', file: 'projects/trone.html'}
-- {name: 'roro', folder: 'roro', file: 'projects/roro.html'}
+- {name: 'Roro', folder: 'roro', file: 'projects/roro.html'}
 # - {name: 'roro_2', folder: 'roro_2', file: 'projects/roro_2.html'}
+- {name: 'TRÔNE', folder: 'trone', file: 'projects/trone.html'}
 # - {name: 'pieces', folder: 'proj-4', file: 'projects/proj-4.html'}
 # - {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
 
