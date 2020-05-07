@@ -69,7 +69,7 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'En attendant Godo', folder: 'Godo', file: 'projects/Godo.html'}
+- {name: 'En attendant Godot', folder: 'Godo', file: 'projects/Godo.html'}
 # - {name: 'À portée de main', folder: 'APDM', file: 'projects/APDM.html'}
 - {name: 'Roro', folder: 'roro', file: 'projects/roro.html'}
 - {name: 'TRÔNE', folder: 'trone', file: 'projects/trone.html'}
