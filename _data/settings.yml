@@ -74,7 +74,7 @@ projects:
 - {name: 'Roro', folder: 'roro', file: 'projects/roro.html'}
 - {name: 'TRÔNE', folder: 'trone', file: 'projects/trone.html'}
 # - {name: 'roro_2', folder: 'roro_2', file: 'projects/roro_2.html'}
-# - {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
+# - {name: 'Douze jours ensemble', folder: '12J', file: 'projects/12J.html'}
 
 #-------------------------------
 # Contact Section
