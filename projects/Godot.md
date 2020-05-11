@@ -32,6 +32,6 @@ title: 'En attendant Godot'
 {% include image.html image="projects/Godot/godo_21.JPG" %}
 {% include image.html image="projects/Godot/godo_22.JPG" %}
 {% include image.html image="projects/Godot/godo_23.JPG" %}
-
-
+{% include image.html image="projects/Godot/godo_24.JPG" %}
+{% include image.html image="projects/Godot/godo_25.JPG" %}
 
