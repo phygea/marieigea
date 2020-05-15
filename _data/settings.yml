@@ -71,10 +71,11 @@ contact: >
 projects:
 - {name: 'En attendant Godot', folder: 'Godot', file: 'projects/Godot.html'}
 # - {name: 'À portée de main', folder: 'APDM', file: 'projects/APDM.html'}
+# - {name: 'Douze jours ensemble', folder: '12J', file: 'projects/12J.html'}
 - {name: 'Roro', folder: 'roro', file: 'projects/roro.html'}
 - {name: 'TRÔNE', folder: 'trone', file: 'projects/trone.html'}
 # - {name: 'roro_2', folder: 'roro_2', file: 'projects/roro_2.html'}
-# - {name: 'Douze jours ensemble', folder: '12J', file: 'projects/12J.html'}
+
 
 #-------------------------------
 # Contact Section
