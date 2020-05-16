@@ -7,6 +7,8 @@ title: 'En attendant Godot'
 
  mars - avril 2020
  <br>
+ Carnet d'un confinement.
+ <br>
 
 
 {% include image.html image="projects/Godot/godo_01.JPG" %}
