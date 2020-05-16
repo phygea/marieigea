@@ -10,6 +10,8 @@ Avec un réflex Chinon offert par ma tante, je sonde la notion de liberté. Que 
 
 Je me laisse guider par le quotidien et tente de « rendre sensibles des instants très simples » (Claude Batho). Un citron achève sa maturation sous la serre, il s’offre autant qu’il se dérobe. La magie de sa présence symbolise possibles et amertume. Le Chinon, comme la maison, est vieillot, robuste et familial. Avec lui, j’interroge la permanence de ce lieu et mon rapport à lui.
 
+[travail en cours]
+
 ---
 {% include image.html image="projects/roro/roro_selection0001.jpg" %}
 {% include image.html image="projects/roro/roro_selection0002.jpg" %}

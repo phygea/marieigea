@@ -5,7 +5,7 @@ title: "L'hors-genus"
 
 <br>
 
- *Sur invitation a écrire un article pour un manuel imaginaire de savoir-vivre en 2019*
+ *Sur invitation a écrire un article pour un manuel imaginaire de savoir-vivre en 2019.*
 
 <br>
 #### L'hors-genus
