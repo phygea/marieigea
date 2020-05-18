@@ -12,6 +12,8 @@ Ce projet rassemble des photographies prises durant 3 ans en Égypte et depuis m
 
 Deux univers conversent et s’affrontent à travers ces collages, pour former un chant visuel s’articulant en deux couplets autour d’un point de bascule : le retour et ses conséquences. Ce travail n’est pas seulement la mise en contraste de deux pays ou de deux quotidiens. Il met aussi en exergue, une traversée des limbes, un « entre-deux » dont l’expression visuelle devient une introspection. Un auto-portrait.
 
+[travail en cours]
+
 ---
 
 {% include image.html image="projects/trone/trone0001.jpg" %}
