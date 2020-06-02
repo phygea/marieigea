@@ -3,7 +3,7 @@ layout: post
 titre: 'TRÔNE'
 ---
 #### TRÔNE
-
+---
 [« Trône »](https://www.youtube.com/watch?v=48fnSevQFk4) c’est le titre d’un clip de Booba, qui reprend visuellement les « métagores » (mélange de métaphores et gore) de l’artiste, selon le néologisme de l’essayiste Thomas Ravier. Un style explosif, flirtant à la frontière entre la fiction et la réalité — « *un mariage gay entre une kalash' et une plume* » —, prend forme par la superposition de deux à trois plans fixes.
 
 Trône c’est aussi un lieu où l’on expulse. Un lieu où l’on s’isole. Un lieu d'où l'on observe et analyse. Pas de partage, par pudeur ou nécessité.

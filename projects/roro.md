@@ -3,6 +3,7 @@ layout: post
 
 ---
 #### Roro
+---
 
 De retour en France, mon regard bascule du doctorat vers la photographie, de la fenêtre vers le miroir. Un contrepied à la rigidité d’expression du langage scientifique, une acceptation du doute. C’est d’abord la maison familiale, la "Roro", qui s’impose à moi comme une énigme. L’éloignement m’a fait prendre conscience des sentiments mêlés qui me rattachent à elle. Le saule tortueux danse la vie retrouvée après sa chute. Il semble s’être allongé pour bercer dans ses branches qui cherche un peu de repos. La vigueur de ses rameaux traduit l’exubérance de la nature, laquelle asservit autant qu’elle nourrit.
 
