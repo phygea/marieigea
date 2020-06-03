@@ -1,24 +1,20 @@
 ---
 layout: post
-title: 'À PORTÉE DE MAIN'
+title: 'À portée de main'
 ---
-
+---
  <br>
- ...
-
+ Chaque image est le fragment d’un puzzle de chair sans fin ni forme fixe. J’interroge le corps, ses définitions et la perméabilité de ses frontières, sur les traces de Francesca Woodman. Une main tente d’arracher le film invisible avec lequel la société enveloppe les corps et les contraint, tel « un personnage écartelé entre l’espace et le temps [...], non plus une femme mais une série d’événements sur lesquels on ne peut jeter aucune lumière, une série de problèmes insolubles » (Marcel Proust, *À la recherche du temps perdu*).
+<br>
+---
+ <br>
+ [Travail en cours]
  <br>
 
-
-{% include image.html image="projects/APDM/pieces0001.jpg" %}
-{% include image.html image="projects/APDM/pieces0002.jpg" %}
-{% include image.html image="projects/APDM/pieces0003.jpg" %}
-{% include image.html image="projects/APDM/pieces0004.jpg" %}
-{% include image.html image="projects/APDM/pieces0005.jpg" %}
-{% include image.html image="projects/APDM/pieces0006.jpg" %}
-{% include image.html image="projects/APDM/pieces0007.jpg" %}
-{% include image.html image="projects/APDM/pieces0008.jpg" %}
-{% include image.html image="projects/APDM/pieces0009.jpg" %}
-{% include image.html image="projects/APDM/pieces0010.jpg" %}
-{% include image.html image="projects/APDM/pieces0011.jpg" %}
-{% include image.html image="projects/APDM/pieces0012.jpg" %}
-
+{% include image.html image="projects/APDM/APDM_01.jpg" %}
+{% include image.html image="projects/APDM/APDM_02.jpg" %}
+{% include image.html image="projects/APDM/APDM_03.jpg" %}
+{% include image.html image="projects/APDM/APDM_04.jpg" %}
+{% include image.html image="projects/APDM/APDM_05.jpg" %}
+{% include image.html image="projects/APDM/APDM_06.jpg" %}
+{% include image.html image="projects/APDM/APDM_07.jpg" %}

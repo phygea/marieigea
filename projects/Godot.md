@@ -2,9 +2,7 @@
 layout: post
 title: 'En attendant Godot'
 ---
-
-
- <br>
+---
  mars - avril 2020
  <br>
  Carnet d'un confinement.
@@ -17,7 +15,7 @@ title: 'En attendant Godot'
  <br>
  ---
  <br>
- [Travail en cours]
+ [Editing en cours]
  <br>
 
 {% include image.html image="projects/Godot/godo_01.jpg" %}

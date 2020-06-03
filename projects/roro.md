@@ -13,7 +13,8 @@ Je me laisse guider par le quotidien et tente de « rendre sensibles des instan
 
 [travail en cours]
 
----
+<br>
+
 {% include image.html image="projects/roro/roro_selection0001.jpg" %}
 {% include image.html image="projects/roro/roro_selection0002.jpg" %}
 {% include image.html image="projects/roro/roro_selection0003.jpg" %}
