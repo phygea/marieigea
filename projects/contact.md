@@ -7,9 +7,8 @@ title: 'Contact'
  <br>
  ---
  <br>
- Plongée dans l'univers de mes cousines Clémentine et Stéphanie.
- <br>
- À la recherche de points de contact.
+ Les deux dernières semaines du confinement, mes cousines Stéphanie et Clémentine se sont retrouvées chez leur mère après deux mois de séparation. Douze jours que j’ai passé avec elles, immergée dans un autre univers.
+
  <br>
  ---
  <br>
@@ -29,7 +28,5 @@ title: 'Contact'
 {% include image.html image="projects/contact/contact_10.jpg" %}
 {% include image.html image="projects/contact/contact_11.jpg" %}
 {% include image.html image="projects/contact/contact_12.jpg" %}
-{% include image.html image="projects/contact/contact_13.jpg" %}
-{% include image.html image="projects/contact/contact_14.jpg" %}
 
 
