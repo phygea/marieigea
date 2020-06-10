@@ -70,7 +70,7 @@ contact: >
 
 projects:
 - {name: 'En attendant Godot', folder: 'Godot', file: 'projects/Godot.html'}
-# - {name: 'À portée de main', folder: 'APDM', file: 'projects/APDM.html'}
+- {name: 'À portée de main', folder: 'APDM', file: 'projects/APDM.html'}
 # - {name: 'Contact', folder: 'contact', file: 'projects/contact.html'}
 - {name: 'Variations', folder: 'roros_hill', file: 'projects/roros_hill.html'}
 - {name: 'Roro', folder: 'roro', file: 'projects/roro.html'}
