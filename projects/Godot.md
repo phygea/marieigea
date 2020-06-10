@@ -18,28 +18,21 @@ title: 'En attendant Godot'
  [Editing en cours]
  <br>
 
-{% include image.html image="projects/Godot/godo_01.jpg" %}
-{% include image.html image="projects/Godot/godo_02.jpg" %}
-{% include image.html image="projects/Godot/godo_03.jpg" %}
-{% include image.html image="projects/Godot/godo_04.jpg" %}
-{% include image.html image="projects/Godot/godo_05.jpg" %}
-{% include image.html image="projects/Godot/godo_06.jpg" %}
-{% include image.html image="projects/Godot/godo_07.jpg" %}
-{% include image.html image="projects/Godot/godo_08.jpg" %}
-{% include image.html image="projects/Godot/godo_09.jpg" %}
-{% include image.html image="projects/Godot/godo_11.jpg" %}
-{% include image.html image="projects/Godot/godo_12.jpg" %}
-{% include image.html image="projects/Godot/godo_13.jpg" %}
-{% include image.html image="projects/Godot/godo_14.jpg" %}
-{% include image.html image="projects/Godot/godo_15.jpg" %}
-{% include image.html image="projects/Godot/godo_16.jpg" %}
-{% include image.html image="projects/Godot/godo_17.jpg" %}
-{% include image.html image="projects/Godot/godo_18.jpg" %}
-{% include image.html image="projects/Godot/godo_19.jpg" %}
-{% include image.html image="projects/Godot/godo_20.jpg" %}
-{% include image.html image="projects/Godot/godo_21.jpg" %}
-{% include image.html image="projects/Godot/godo_22.jpg" %}
-{% include image.html image="projects/Godot/godo_23.jpg" %}
-{% include image.html image="projects/Godot/godo_24.jpg" %}
-{% include image.html image="projects/Godot/godo_25.jpg" %}
-{% include image.html image="projects/Godot/godo_26.jpg" %}
+{% include image.html image="projects/Godot/godot_01.jpg" %}
+{% include image.html image="projects/Godot/godot_02.jpg" %}
+{% include image.html image="projects/Godot/godot_03.jpg" %}
+{% include image.html image="projects/Godot/godot_04.jpg" %}
+{% include image.html image="projects/Godot/godot_05.jpg" %}
+{% include image.html image="projects/Godot/godot_06.jpg" %}
+{% include image.html image="projects/Godot/godot_07.jpg" %}
+{% include image.html image="projects/Godot/godot_08.jpg" %}
+{% include image.html image="projects/Godot/godot_09.jpg" %}
+{% include image.html image="projects/Godot/godot_11.jpg" %}
+{% include image.html image="projects/Godot/godot_12.jpg" %}
+{% include image.html image="projects/Godot/godot_13.jpg" %}
+{% include image.html image="projects/Godot/godot_14.jpg" %}
+{% include image.html image="projects/Godot/godot_15.jpg" %}
+{% include image.html image="projects/Godot/godot_16.jpg" %}
+{% include image.html image="projects/Godot/godot_17.jpg" %}
+{% include image.html image="projects/Godot/godot_18.jpg" %}
+{% include image.html image="projects/Godot/godot_19.jpg" %}
