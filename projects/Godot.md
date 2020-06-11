@@ -18,21 +18,21 @@ title: 'En attendant Godot'
  [Editing en cours]
  <br>
 
-{% include image.html image="projects/Godot/godot_01.jpg" %}
-{% include image.html image="projects/Godot/godot_02.jpg" %}
-{% include image.html image="projects/Godot/godot_03.jpg" %}
-{% include image.html image="projects/Godot/godot_04.jpg" %}
-{% include image.html image="projects/Godot/godot_05.jpg" %}
-{% include image.html image="projects/Godot/godot_06.jpg" %}
-{% include image.html image="projects/Godot/godot_07.jpg" %}
-{% include image.html image="projects/Godot/godot_08.jpg" %}
-{% include image.html image="projects/Godot/godot_09.jpg" %}
-{% include image.html image="projects/Godot/godot_11.jpg" %}
-{% include image.html image="projects/Godot/godot_12.jpg" %}
-{% include image.html image="projects/Godot/godot_13.jpg" %}
-{% include image.html image="projects/Godot/godot_14.jpg" %}
-{% include image.html image="projects/Godot/godot_15.jpg" %}
-{% include image.html image="projects/Godot/godot_16.jpg" %}
-{% include image.html image="projects/Godot/godot_17.jpg" %}
-{% include image.html image="projects/Godot/godot_18.jpg" %}
-{% include image.html image="projects/Godot/godot_19.jpg" %}
+{% include image.html image="projects/Godot/godot01.jpg" %}
+{% include image.html image="projects/Godot/godot02.jpg" %}
+{% include image.html image="projects/Godot/godot03.jpg" %}
+{% include image.html image="projects/Godot/godot04.jpg" %}
+{% include image.html image="projects/Godot/godot05.jpg" %}
+{% include image.html image="projects/Godot/godot06.jpg" %}
+{% include image.html image="projects/Godot/godot07.jpg" %}
+{% include image.html image="projects/Godot/godot08.jpg" %}
+{% include image.html image="projects/Godot/godot09.jpg" %}
+{% include image.html image="projects/Godot/godot11.jpg" %}
+{% include image.html image="projects/Godot/godot12.jpg" %}
+{% include image.html image="projects/Godot/godot13.jpg" %}
+{% include image.html image="projects/Godot/godot14.jpg" %}
+{% include image.html image="projects/Godot/godot15.jpg" %}
+{% include image.html image="projects/Godot/godot16.jpg" %}
+{% include image.html image="projects/Godot/godot17.jpg" %}
+{% include image.html image="projects/Godot/godot18.jpg" %}
+{% include image.html image="projects/Godot/godot19.jpg" %}
