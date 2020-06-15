@@ -6,7 +6,7 @@ title: 'La Traversée du miroir'
 ---
  mars - avril 2020
  <br>
- Carnet d'un confinement.
+ Carnet d'un confinement, de l'autre côté du miroir.
  <br>
  ---
  <br>
