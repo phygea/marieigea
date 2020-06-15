@@ -69,7 +69,7 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'En attendant Godot', folder: 'Godot', file: 'projects/Godot.html'}
+- {name: 'La Traversée du miroir', folder: 'miroir', file: 'projects/miroir.html'}
 # - {name: 'Contact', folder: 'contact', file: 'projects/contact.html'}
 - {name: 'À portée de main', folder: 'APDM', file: 'projects/APDM.html'}
 - {name: 'Variations', folder: 'roros_hill', file: 'projects/roros_hill.html'}
