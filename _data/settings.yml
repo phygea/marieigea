@@ -61,7 +61,7 @@ about: >
 
 
 contact: >
-  # Contact
+  # contact
 
   [Email](mailto:marie.piessat@gmail.com) marie[dot]piessat[at]gmail[dot]com
   <br> [Instagram](https://www.instagram.com/m.igea/) @m.igea
@@ -69,8 +69,8 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'La Traversée du miroir', folder: 'miroir', file: 'projects/miroir.html'}
-# - {name: 'Contact', folder: 'contact', file: 'projects/contact.html'}
+- {name: 'Carnet', folder: 'miroir', file: 'projects/miroir.html'}
+- {name: '*****', folder: 'c&s', file: 'projects/c&s.html'}
 - {name: 'À portée de main', folder: 'APDM', file: 'projects/APDM.html'}
 - {name: 'Variations', folder: 'roros_hill', file: 'projects/roros_hill.html'}
 - {name: 'Roro', folder: 'roro', file: 'projects/roro.html'}
@@ -79,10 +79,10 @@ projects:
 
 
 #-------------------------------
-# Contact Section
+# contact Section
 
 social:
 - {icon: 'instagram', link: 'https://www.instagram.com/m.igea/'}
-- {icon: 'envelope', link: 'mailto:marie.piessat@gmail.com?subject=<Contact depuis Portfolio>'}
+- {icon: 'envelope', link: 'mailto:marie.piessat@gmail.com?subject=<contact depuis Portfolio>'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

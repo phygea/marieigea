@@ -1,18 +1,18 @@
 ---
 layout: post
-title: 'La Traversée du miroir'
+title: 'Carnet'
 
 ---
 ---
  mars - avril 2020
  <br>
- Carnet d'un confinement, *De l'autre côté du miroir*.
+ Carnet d'un confinement.
  <br>
- ---
+[Travail en cours]
  <br>
- [Editing en cours]
+
  <br>
- ---
+
 
 {% include image.html image="projects/miroir/miroir_01.jpg" %}
 {% include image.html image="projects/miroir/miroir_02.jpg" %}
