@@ -24,5 +24,6 @@ title: '[   *   ]'
 {% include image.html image="projects/c&s/c&s_10.jpg" %}
 {% include image.html image="projects/c&s/c&s_11.jpg" %}
 {% include image.html image="projects/c&s/c&s_12.jpg" %}
+{% include image.html image="projects/c&s/c&s_13.jpg" %}
 
 
