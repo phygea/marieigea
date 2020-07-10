@@ -72,8 +72,10 @@ projects:
 - {name: 'Sans Titre', folder: 'miroir', file: 'projects/miroir.html'}
 - {name: '[   *   ]', folder: 'c&s', file: 'projects/c&s.html'}
 - {name: 'À portée de main', folder: 'APDM', file: 'projects/APDM.html'}
-- {name: 'Variations', folder: 'roros_hill', file: 'projects/roros_hill.html'}
 - {name: 'Roro', folder: 'roro', file: 'projects/roro.html'}
+- {name: 'Darkroom', folder: 'darkroom', file: 'projects/darkroom.html'}
+- {name: 'Variations', folder: 'roros_hill', file: 'projects/roros_hill.html'}
+
 # - {name: 'TRÔNE', folder: 'trone', file: 'projects/trone.html'}
 # - {name: 'roro_2', folder: 'roro_2', file: 'projects/roro_2.html'}
 
