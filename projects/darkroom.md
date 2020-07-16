@@ -22,7 +22,6 @@ title: 'Darkroom'
  <br>
 {% include image.html image="projects/darkroom/DR_05.jpg" %}
 {% include image.html image="projects/darkroom/DR_06.jpg" %}
-{% include image.html image="projects/darkroom/DR_07.jpg" %}
 {% include image.html image="projects/darkroom/DR_08.jpg" %}
  <br>
  <br>
