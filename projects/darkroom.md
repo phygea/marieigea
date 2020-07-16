@@ -12,27 +12,27 @@ title: 'Darkroom'
 
  **Coquelicot, feuilles de vigne et de figuier**
  <br>
-{% include image.html image="projects/darkroom/DR_01.jpg" %}
-{% include image.html image="projects/darkroom/DR_02.jpg" %}
-{% include image.html image="projects/darkroom/DR_03.jpg" %}
-{% include image.html image="projects/darkroom/DR_04.jpg" %}
+{% include image.html image="projects/darkroom/dr_01.jpg" %}
+{% include image.html image="projects/darkroom/dr_02.jpg" %}
+{% include image.html image="projects/darkroom/dr_03.jpg" %}
+{% include image.html image="projects/darkroom/dr_04.jpg" %}
  <br>
  <br>
  **Plume**
  <br>
-{% include image.html image="projects/darkroom/DR_05.jpg" %}
-{% include image.html image="projects/darkroom/DR_06.jpg" %}
-{% include image.html image="projects/darkroom/DR_08.jpg" %}
+{% include image.html image="projects/darkroom/dr_05.jpg" %}
+{% include image.html image="projects/darkroom/dr_06.jpg" %}
+{% include image.html image="projects/darkroom/dr_08.jpg" %}
  <br>
  <br>
  **Laine**
  <br>
-{% include image.html image="projects/darkroom/DR_09.jpg" %}
-{% include image.html image="projects/darkroom/DR_10.jpg" %}
+{% include image.html image="projects/darkroom/dr_09.jpg" %}
+{% include image.html image="projects/darkroom/dr_10.jpg" %}
  <br>
  <br>
  **Fougère**
  <br>
-{% include image.html image="projects/darkroom/DR_11.jpg" %}
-{% include image.html image="projects/darkroom/DR_12.jpg" %}
+{% include image.html image="projects/darkroom/dr_11.jpg" %}
+{% include image.html image="projects/darkroom/dr_12.jpg" %}
 
