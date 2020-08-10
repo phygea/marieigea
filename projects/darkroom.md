@@ -18,13 +18,6 @@ title: 'Darkroom'
 {% include image.html image="projects/darkroom/dr_04.jpg" %}
  <br>
  <br>
- **Plume**
- <br>
-{% include image.html image="projects/darkroom/dr_05.jpg" %}
-{% include image.html image="projects/darkroom/dr_06.jpg" %}
-{% include image.html image="projects/darkroom/dr_08.jpg" %}
- <br>
- <br>
  **Laine**
  <br>
 {% include image.html image="projects/darkroom/dr_09.jpg" %}
