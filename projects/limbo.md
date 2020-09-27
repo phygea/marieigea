@@ -5,7 +5,7 @@ title: 'Limbo'
 ---
  Été 2020
  <br>
-Dans la campagne.
+La campagne.
  <br>
  <br>
 
