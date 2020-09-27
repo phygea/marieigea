@@ -71,7 +71,7 @@ contact: >
 projects:
 - {name: 'Sans Titre', folder: 'miroir', file: 'projects/miroir.html'}
 - {name: '[   *   ]', folder: 'c&s', file: 'projects/c&s.html'}
-- {name: 'Limbo', folder: 'Limbo', file: 'projects/limbo.html'}
+- {name: 'À cause de la couleur du blé', folder: 'Limbo', file: 'projects/limbo.html'}
 - {name: 'À portée de main', folder: 'APDM', file: 'projects/APDM.html'}
 - {name: 'Roro', folder: 'roro', file: 'projects/roro.html'}
 - {name: 'Darkroom', folder: 'darkroom', file: 'projects/darkroom.html'}
