@@ -74,7 +74,7 @@ projects:
 - {name: 'À cause de la couleur du blé', folder: 'Limbo', file: 'projects/limbo.html'}
 - {name: 'À portée de main', folder: 'APDM', file: 'projects/APDM.html'}
 - {name: 'Roro', folder: 'roro', file: 'projects/roro.html'}
-- {name: 'Darkroom', folder: 'darkroom', file: 'projects/darkroom.html'}
+# - {name: 'Darkroom', folder: 'darkroom', file: 'projects/darkroom.html'}
 
 
 # - {name: 'TRÔNE', folder: 'trone', file: 'projects/trone.html'}
