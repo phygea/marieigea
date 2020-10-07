@@ -5,7 +5,9 @@ title: 'BXL'
 ---
  Bruxelles, au fil des jours.
  <br>
- [2020 - ... ]
+ 2020 - ...
+ <br>
+ [en cours]
 
  <br>
 
