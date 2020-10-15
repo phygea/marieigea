@@ -24,5 +24,4 @@ title: 'BXL'
 {% include image.html image="projects/BXL/BXL_11.jpg" %}
 {% include image.html image="projects/BXL/BXL_12.jpg" %}
 {% include image.html image="projects/BXL/BXL_13.jpg" %}
-{% include image.html image="projects/BXL/BXL_14.jpg" %}
-{% include image.html image="projects/BXL/BXL_15.jpg" %}
+
