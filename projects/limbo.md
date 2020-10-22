@@ -3,7 +3,7 @@ layout: post
 title: 'À cause de la couleur du blé'
 ---
 ---
- Été 2020
+ 2020
  <br>
 Carnet visuel
  <br>
@@ -24,3 +24,8 @@ Carnet visuel
 {% include image.html image="projects/limbo/limbo_11.jpg" %}
 {% include image.html image="projects/limbo/limbo_12.jpg" %}
 {% include image.html image="projects/limbo/limbo_13.jpg" %}
+{% include image.html image="projects/limbo/limbo_14.jpg" %}
+{% include image.html image="projects/limbo/limbo_15.jpg" %}
+{% include image.html image="projects/limbo/limbo_16.jpg" %}
+{% include image.html image="projects/limbo/limbo_17.jpg" %}
+{% include image.html image="projects/limbo/limbo_18.jpg" %}
