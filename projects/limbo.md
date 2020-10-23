@@ -29,3 +29,4 @@ Carnet visuel
 {% include image.html image="projects/limbo/limbo_16.jpg" %}
 {% include image.html image="projects/limbo/limbo_17.jpg" %}
 {% include image.html image="projects/limbo/limbo_18.jpg" %}
+{% include image.html image="projects/limbo/limbo_19.jpg" %}
